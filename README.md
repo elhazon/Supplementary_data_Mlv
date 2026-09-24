@@ -84,7 +84,7 @@ Sheet "reads_d4" contains the raw reads from the RNA sequencing for the day 4 sa
 
 First column (nameless) = Gene name.
 
-Columns JR31 - JR60 = Reads for each gene of each sample.  
+Columns JR31 - JR50 = Reads for each gene of each sample.  
 ___  
 
 Sheet "Freq_tbl_ancestor" contains the data on which GO term is associated with parent processes for the biological processes enriched with upregulated genes on day 4.
