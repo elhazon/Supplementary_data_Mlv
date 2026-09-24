@@ -13,5 +13,9 @@ Additional files:
 - lplatythorax_final_scaffolds_v1_braker3b.aa.gz - amino acid sequences (as predicted by Feldmeyer et al. 2024)
 - eggnog_results.emapper.annotations.gz - functional annotation of genes obtained with eggNOG 1.0.3 (our study)
 - eggnog.GOterms.tsv.gz - GOterms per gene (our study)
+- trimgalore.slurm.sh - script for trimming the raw sequencing reads
+- 2-star_index_genome.slurm.sh - script for mapping against reference genome
+- 4-markduplicates.slurm.sh - script for removing duplicates
+- 5-featurecountr.slurm.sh - script for read counts per read
 
 
