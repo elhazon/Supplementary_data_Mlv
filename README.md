@@ -15,9 +15,10 @@ Contains a commented R-script to fully recreate the original analysis with expla
 
 ## Data
 
-## Genome-data
+### Genome-data
 Includes all the genomic data used in the analysis, along with scripts.  
-The folder includes a separate README.md file with detailed information on the contents. 
+The folder includes a separate README.md file with detailed information on the contents.  
+___  
 
 ### "Dataset1.xlsx" - Contains the raw foraging and survival data for experiment a. 
 
