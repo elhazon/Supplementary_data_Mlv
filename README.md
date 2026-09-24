@@ -4,9 +4,10 @@ Script and raw data files for "Infection induced changes in gene expression link
 
 This repository includes all necessary files and R-script for analysis.
 The R-script can be found in the "Script" folder ("full-analysis-script.R").  
+For the script to run as is, add the script to the same folder as the data files.  
 The "Data" folder includes all the data files for the analysis.  
 The "Genomic-data" folder includes the genome files used for the analysis, as well as scripts.
-For the script to run as is, add the script to the same folder as the data files.
+
 
 # file descriptions
 
