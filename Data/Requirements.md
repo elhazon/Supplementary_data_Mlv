@@ -1,0 +1,19 @@
+# Packages needed for the full analysis:
+readxl
+tidyverse
+MCMC.qpcr
+emmeans
+car
+ggtext
+glmmTMB
+DHARMa
+survival
+coxme
+survminer
+DESeq2
+topGO
+cowplot
+rempsyc
+reshape2
+ComplexHeatmap
+vegan
