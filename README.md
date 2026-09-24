@@ -1,5 +1,6 @@
 # r-script_Malvolio
 Script and raw data files for "Infection induced changes in gene expression linked to foraging choices in self-medicating Lasius platythorax ants"
+(Rissanen et al., 2026)
 
 This repository includes all necessary files and R-script for analysis.
 The R-script can be found in the "Script" folder ("full-analysis-script.R").  
