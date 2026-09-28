@@ -1,13 +1,37 @@
 # r-script_Malvolio
-Script and raw data files for "Infection induced changes in gene expression linked to foraging choices in self-medicating Lasius platythorax ants"
-(Rissanen et al., 2026)
+Script and raw data files for:  
+# Infection induced changes in gene expression linked to foraging choices in self-medicating Lasius platythorax ants
+
+### *Jason Rissanen1,2, Christoph Hahn1, Heikki Helanterä2,3 & Dalial Freitak1,2 
+
+1Institute of Biology, University of Graz, Graz 8010, Styria, Austria.   
+2Tvärminne Zoological Station, University of Helsinki, Hanko 10900, Finland.   
+3Ecology and Genetics Research Unit, University of Oulu, Oulu 90014, Finland.   
+
+Published in:
+Proceedings of the Royal Society B. DOI: 10.1098/rspb
+
+## Study summary
+Animals can alter their diets to use biologically active compounds that they normally avoid as medicine when suffering
+as medicine against pathogen infections. However, we know little about what physiological changes caused by pathogen infections 
+drives this behaviour. In our study, we studied the self-medication behaviour in the ant Lasius platythorax. This study is comprised 
+of two experiments. In experiment a, we infected colonies of L. platythorax and gave them either a standard control food, a medicinal food 
+that contains 4% hydrogen peroxide, or both the food types that they could choose freely from when. Half of the colonies were then exposed 
+to the entomopathogenic fungus Beauveria bassiana, while the other half were sham-treated and functioned as controls. We then monitored the foraging 
+choices of the colonies, as well as monitored mortality in the colonies daily. Additionally, we took samples for RNA sequencing on days 2 and 4 to 
+evaluate what changes the infection causes in the ants, that could be connected to changes in foraging behaviour. Of the RNA sequencing data 
+we performed a differential gene expression analysis and GO term enrichment analysis, which identified a specific gene of interest: Malvolio.
+In experiment b, we focused on investigating whether there is a correlation between the daily gene expression of Malvolio and changes in foraging 
+behaviour by performing the same food choice and diet experiment along with sampling colonies daily for RT-qPCR analysis. We showed that L. platythorax 
+can medicate successfully against a fungal pathogen, and the expression of Malvolio correlates with the increase in foraging on the medicinal food 
+in infected colonies, making it a candidate gene to study further in the context of self-medication.
+
 
 This repository includes all necessary files and R-script for analysis.
 The R-script can be found in the "Script" folder ("full-analysis-script.R").  
 For the script to run as is, add the script to the same folder as the data files.  
 The "Data" folder includes all the data files for the analysis.  
-The "Genomic-data" folder includes the genome files used for the analysis, as well as scripts.
-
+The "Genomic-data" folder includes the genome files used for the analysis, as well as scripts with defined parameters.
 
 # file descriptions
 
